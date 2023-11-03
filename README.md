@@ -1,7 +1,7 @@
 # ntc-gnn
 The repository document the source code of the following works:
-- Flow-based encrypted network traffic classification with graph neural networks
-- Encrypted network traffic classification using a geometric learning model
+- Huoh, Ting-Li, et al. "Flow-based encrypted network traffic classification with graph neural networks." *IEEE Transactions on Network and Service Management* (2022).
+- Huoh, Ting-Li, Yan Luo, and Tong Zhang. "Encrypted network traffic classification using a geometric learning model." *2021 IFIP/IEEE International Symposium on Integrated Network Management (IM).* IEEE, 2021.
 ## Getting started
 - GNN_model.ipynb
 >This file provides the GNN training pipelline from loading the data into a graph to train and validate the GNN.
