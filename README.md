@@ -4,7 +4,7 @@ The repository document the source code of the following works:
 - Huoh, T. L., Luo, Y., & Zhang, T. (2021, May). Encrypted network traffic classification using a geometric learning model. In *2021 IFIP/IEEE International Symposium on Integrated Network Management (IM)* (pp. 376-383). IEEE.
 ## Getting started
 - GNN_model.ipynb
->This file provides the GNN training pipelline from loading the data into a graph to train and validate the GNN.
+>This file provides the GNN training pipeline from loading the data into a graph to train and validate the GNN.
 - preprocessing_function.ipynb
 > This file provides the function for preprocessing a .pcap file.
 ## Prerequisites
